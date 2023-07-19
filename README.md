@@ -6,9 +6,9 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeaCris103&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeaCris103&show_icons=true&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeaCris103&layout=compact&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeaCris103&layout=compact&theme=buefy)
 
 
 ##
