@@ -1,7 +1,4 @@
-### Olá! Eu sou a Beatriz Santos.
-
-- 🔭 Hoje trabalho com Suporte de T.I
-- 🌱 Estudando JavaScript
+### Olá! Eu sou a Beatriz Santos, sou desenvolvedora Front End.
 
 ##
 
