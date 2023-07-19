@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Suporte de T.I
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: ela/dela
 
 ##
 
